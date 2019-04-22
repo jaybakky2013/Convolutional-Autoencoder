@@ -6,4 +6,5 @@ It is based on an encoder-decoder paradigm, where an encoder first transforms an
 
 It has been applied in different application areas such as dimensionality reduction, reconstructing corrupted data, compact representations of images, Latent space clustering and generative models learning.
 
-In this work, we performed two types of Simple Autoencoder (SAE) and Convolutional Autoencoder (SAE)
+In this work, we performed two types of Autoencoder :
+  Simple Autoencoder (SAE) and Convolutional Autoencoder (SAE)
